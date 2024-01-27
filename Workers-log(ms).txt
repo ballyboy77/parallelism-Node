@@ -1,0 +1,59 @@
+PS C:\Users\bally\OneDrive\Desktop\DEV\JS> node main.js
+Worker 1 completed
+Worker 4 completed
+Worker 0 completed
+Worker 5 completed
+Worker 6 completed
+Worker 2 completed
+Worker 7 completed
+Worker 3 completed
+8 worker took 205.2922
+PS C:\Users\bally\OneDrive\Desktop\DEV\JS> node main.js
+Worker 0 completed
+Worker 4 completed
+Worker 2 completed
+Worker 3 completed
+Worker 1 completed
+Worker 5 completed
+Worker 6 completed
+Worker 7 completed
+8 worker took 216.0436
+PS C:\Users\bally\OneDrive\Desktop\DEV\JS> node main.js
+Worker 2 completed
+Worker 4 completed
+Worker 6 completed
+Worker 9 completed
+Worker 0 completed
+Worker 5 completed
+Worker 10 completed
+Worker 7 completed
+Worker 8 completed
+Worker 11 completed
+Worker 1 completed
+Worker 3 completed
+12 worker took 217.9013
+PS C:\Users\bally\OneDrive\Desktop\DEV\JS> node main.js
+Worker 1 completed
+Worker 0 completed
+2 worker took 28030.7009
+PS C:\Users\bally\OneDrive\Desktop\DEV\JS> node main.js
+Worker 2 completed
+Worker 1 completed
+Worker 0 completed
+3 worker took 19350.9843
+PS C:\Users\bally\OneDrive\Desktop\DEV\JS> node main.js
+Worker 0 completed
+Worker 2 completed
+Worker 3 completed
+Worker 1 completed
+4 worker took 14673.1843
+PS C:\Users\bally\OneDrive\Desktop\DEV\JS> node main.js
+Worker 4 completed
+Worker 0 completed
+Worker 2 completed
+Worker 1 completed
+Worker 3 completed
+5 worker took 12893.3338
+
+
+---final 8 works took 10.5000 ms on 97% CPU usage
